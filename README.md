@@ -10,10 +10,13 @@ this application is created for students who want to apply for job.
 
 Install create-react-app npm package globally. This will help to easily run the project and also build the source files easily. Use the following command to install create-react-app
 
-npm install -g create-react-app
+npm install create-react-app
 
 ### Axios
 
+## Run program
+
+Axios package is used for API calls.
 ### `npm start`
 
 Runs the app in the development mode.\
