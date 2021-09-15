@@ -12,11 +12,13 @@ Install create-react-app npm package globally. This will help to easily run the 
 
 npm install create-react-app
 
+
 ### Axios
+
+Axios package is used for API calls.
 
 ## Run program
 
-Axios package is used for API calls.
 ### `npm start`
 
 Runs the app in the development mode.\
